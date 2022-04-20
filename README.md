@@ -4,7 +4,7 @@
 🔭Currently learning JAVASCRIPT !<br>
 *I believe “You don’t learn to walk by following rules. You learn by doing and falling over.”*
 <h1 align="center">Hi 👋, I'm bajracharyaritika08</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Nepal <3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajracharyaritika08&label=Profile%20views&color=0e75b6&style=flat" alt="bajracharyaritika08" /> </p>
 
