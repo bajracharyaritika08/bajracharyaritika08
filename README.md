@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <p align="center">I believe “You don’t learn to walk by following rules. You learn by doing and falling over.”</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajracharyaritika08&label=Profile%20views&color=0e75b6&style=flat" alt="bajracharyaritika08" /> </p>
-
+<h4>More About Me? </h4>
+<p>I solve problems and beautify things. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.</p>
 - 📫 How to reach me **ritikabajracharya415@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
