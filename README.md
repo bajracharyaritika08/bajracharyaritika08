@@ -1,7 +1,10 @@
 <h1 align="center">Hola 👋, I'm Ritika Bajracharya</h1>
+<div id="header" align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="350"/>
+</div>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <p align="center">I believe “You don’t learn to walk by following rules. You learn by doing and falling over.”</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bajracharyaritika08&label=Profile%20views&color=0e75b6&style=flat" alt="bajracharyaritika08" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bajracharyaritika08&label=Profile%20views&color=0e75b6&style=flat" alt="bajracharyaritika08" /> </p>
 <h4>More About Me? </h4>
 <p>I solve problems and beautify things. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.</p>
 - 📫 How to reach me  **ritikabajracharya415@gmail.com**
